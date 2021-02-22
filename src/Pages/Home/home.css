@@ -1,0 +1,28 @@
+
+.form {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#newUsers {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.jumbotron {
+    padding: 40px;
+    margin-top: 50px;
+    background-color: lightblue;
+}
+
+#hero {
+    background: silver;
+    align-content: center; 
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    border-radius: 25px;
+    align-content: center;
+}
